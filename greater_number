@@ -1,0 +1,9 @@
+number_one = int(input ())
+number_two = int(input ())
+if number_one > number_two:
+    print (f "Greater number: (number_one)")
+
+    number_one = int(input ())
+number_two = int(input ())
+if number_one >= number_two:
+    print (f "Greater number: (number_one)")
