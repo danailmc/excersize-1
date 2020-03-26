@@ -1,0 +1,5 @@
+number = int (input())
+if number <= 9
+    print (number)
+if number > 9
+    print ("number too big")
