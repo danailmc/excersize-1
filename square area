@@ -1,0 +1,4 @@
+# the area of square is side A * Side are
+a = 9
+area = side_a * side_a
+print (area)
