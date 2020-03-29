@@ -1,0 +1,18 @@
+income = float (input ())
+grade = float (input ())
+min_incime = float (input ())
+
+social_scolarship = 0
+grade_scholarship = 0
+
+if income < min_incime:
+    if grade > 4.5
+        social_scolarship = min_incime * 0.35
+if grade .= 5.50:
+    grade_scholarship = grade * 25
+
+if social_scolarship >0
+    if social_scolarship > grade_scholarship:
+        priny (f "You get a Social {social_scolarship}")
+elif grade_scholarship > social_scolarship:
+print ()
